@@ -1,7 +1,4 @@
-console.log("aqui");
 
-console.log("oi");
-console.log("oi");
 console.log("oi");
 
 const test = ()=>{
