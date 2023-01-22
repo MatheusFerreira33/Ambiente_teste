@@ -1,4 +1,5 @@
 
+console.log("oi");
 
 const test = ()=>{
     return 1 + 1;
